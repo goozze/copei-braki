@@ -19,6 +19,7 @@ nav{
     display: flex;
     justify-content: space-around; 
     border-bottom: 3px solid rgb(0, 0, 0);
+    text-decoration: none;
 }
 
 .qwer{
